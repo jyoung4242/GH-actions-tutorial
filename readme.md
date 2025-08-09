@@ -20,10 +20,12 @@ Every push will increment your game version and upload it to your Itch.io projec
 1. Log in to [Itch.io](https://itch.io/).
 2. Create a new project (**Upload new project**).
 3. Fill in the details. Make sure the project type is set to **HTML**.
-4. Save.
+5. Save.
    - Example URL: `https://myusername.itch.io/mygame`
      - `myusername` = your Itch.io username
      - `mygame` = your project slug
+
+### note: the project won't be happy because there's no files uploaded, bear with me on this...
 
 ---
 
