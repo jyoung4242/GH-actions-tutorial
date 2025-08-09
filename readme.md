@@ -72,8 +72,8 @@ permissions:
   contents: write # 🔑 This gives GITHUB_TOKEN permission to push changes
 
 env:
-  ITCH_USERNAME: **** ENTER YOUR ITCH USERNAME ****
-  ITCH_GAME_ID: **** ENTER YOUR ITCH PROJECT ****
+  ITCH_USERNAME:  myUserName    # **** ENTER YOUR ITCH USERNAME ****
+  ITCH_GAME_ID:  myGameID       # **** ENTER YOUR ITCH PROJECT ****
 
 jobs:
   deploy:
