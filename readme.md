@@ -139,7 +139,7 @@ This updates your repo so the new version number is saved in GitHub.
 
 Your ExcaliburJS build output should be in ./dist.
 
-If your build folder is different, update the workflow line:
+If your build folder is different, update the workflow line in the YAML script:
 
 ```bash
 gameData: ./****where your build artifacts are****
