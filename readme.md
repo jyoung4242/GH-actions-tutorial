@@ -37,6 +37,8 @@ Every push will increment your game version and upload it to your Itch.io projec
    butler login
    ```
 
+### note: once you have 'your' Butler key, keep it secret AND it can be reused over and over for all your Itch projects
+
 ## 🔐 Step 3: Store Secrets in GitHub
 
 Go to your GitHub repo → Settings → Secrets and variables → Actions.
