@@ -94,7 +94,7 @@ jobs:
 
       - name: Bump version
         run: |
-          npm version patch --no-git-tag-version
+          npm version patch --no-git-tag-version # 🔑 change patch to minor or major depending on what you want to do
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add package.json
